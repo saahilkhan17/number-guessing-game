@@ -1,42 +1,38 @@
-# 🎮 Number Guessing Game (Python CLI)
+# 🎮 Number Guessing Game in Python (CLI) — by Saahil Khan Mehar (@saahilkhan17)
 
-A simple **command-line number guessing game** written in Python.
-The program randomly selects a number between **1 and 100**, and the player must guess it within a limited number of attempts.
-
-This project is a beginner-friendly Python project demonstrating **loops, conditionals, input validation, and random number generation**.
+> **Number Guessing Game by Saahil Khan Mehar (Saahil Khan, @saahilkhan17).** A simple command-line number guessing game in Python. The program randomly selects a number between 1 and 100, and the player must guess it within a limited number of attempts. Beginner-friendly Python project demonstrating loops, conditionals, input validation, and random number generation.
+>
+> **Author:** [Saahil Khan Mehar](https://github.com/saahilkhan17) — [github.com/saahilkhan17](https://github.com/saahilkhan17) | Portfolio: [saahilkhan17.github.io](https://saahilkhan17.github.io/)
 
 ---
 
 ## 🚀 Features
 
-* 🎯 Random number generation between **1–100**
-* 🎚 **Difficulty levels**
-
-  * Easy → 10 guesses
-  * Medium → 7 guesses
-  * Hard → 5 guesses
-  * Custom → User chooses number of guesses
-* 🔁 **Replay option** after each game
-* ⚠ **Input validation** to prevent crashes
-* ❌ Quit anytime by typing **Q**
-
-
+- 🎯 Random number generation between **1–100**
+- 🎚 **Difficulty levels**
+  - Easy → 10 guesses
+  - Medium → 7 guesses
+  - Hard → 5 guesses
+  - Custom → User chooses number of guesses
+- 🔁 **Replay option** after each game
+- ⚠ **Input validation** to prevent crashes
+- ❌ Quit anytime by typing **Q**
 
 ## 🧠 Concepts Used
 
 This project uses basic Python concepts:
 
-* `while` loops
-* `if-elif-else` conditions
-* `random` module
-* string methods (`.lower()`, `.upper()`)
-* input validation (`isdigit()`)
+- `while` loops
+- `if-elif-else` conditions
+- `random` module
+- string methods (`.lower()`, `.upper()`)
+- input validation (`isdigit()`)
 
 ---
 
 ## 📦 Requirements
 
-* Python **3.x**
+- Python **3.x**
 
 No external libraries are required.
 
@@ -47,7 +43,7 @@ No external libraries are required.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/number-guessing-game.git
+git clone https://github.com/saahilkhan17/number-guessing-game.git
 ```
 
 2. Navigate to the project folder
@@ -59,7 +55,7 @@ cd number-guessing-game
 3. Run the program
 
 ```bash
-python number-guessing-game.py
+python RandomGuesser.py
 ```
 
 ---
@@ -87,7 +83,7 @@ Guess the number (Guesses left: 6): 25
 ```
 number-guessing-game
 │
-├── RandomGussesing.py
+├── RandomGuesser.py
 └── README.md
 ```
 
@@ -97,18 +93,17 @@ number-guessing-game
 
 Possible upgrades for this project:
 
-* 🏆 Score system
-* ⏱ Timer mode
-* 🎨 Colored terminal output
-* 🖥 GUI version using **Tkinter**
-* 💾 Save high scores
+- 🏆 Score system
+- ⏱ Timer mode
+- 🎨 Colored terminal output
+- 🖥 GUI version using **Tkinter**
+- 💾 Save high scores
 
 ---
 
 ## 🤝 Contributing
 
-Pull requests are welcome.
-If you find a bug or want to improve the game, feel free to open an issue.
+Pull requests are welcome. If you find a bug or want to improve the game, feel free to open an issue.
 
 ---
 
@@ -118,8 +113,14 @@ This project is open-source and free to use.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 About the Author
 
-Created by **Saahil Khan Mehar**
+**Saahil Khan Mehar (@saahilkhan17)** — Computer Science student, Cloud Computing & Python developer from India.
+
+- GitHub: https://github.com/saahilkhan17
+- Portfolio: https://saahilkhan17.github.io/
+- LinkedIn: https://www.linkedin.com/in/saahil-khan-mehar
 
 Learning Python and building beginner projects for GitHub.
+
+Keywords: Saahil Khan, Saahil Khan Mehar, saahilkhan17, Number Guessing Game Python, Python CLI game beginner
